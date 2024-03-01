@@ -1,2 +1,2 @@
 # cil-academy
-This repository is used to practice configuring a Continuous Integration / Continuous Deployment (CI/CD) pipeline on AWS using CloudFormation. 
+This repository captures my journey through CIL academy, learning data engineering using the cloud (AWS, Azure and GCP) to solve real world problems.
